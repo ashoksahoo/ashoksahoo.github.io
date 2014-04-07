@@ -11,4 +11,28 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-I am a fullstack developer.
+I am a fullstack developer currently working at TechAnipr Pvt. Ltd., Hyderabad. I have completed my B.Tech in Chemical Engineering from National Institute of Technology, Rourkela.
+I am a avid follower of technology and always interested in  working with cutting edge technology.
+
+##Skills
+------------
+* __Programming:__
+_JavaScript, PHP, Python, HTML, CSS_
+
+* __Technologies:__
+*nodejs, angularjs, mocha, jasmine, mongodb, wordpress_*
+
+* __Design:__
+_Photoshop, jquery, Bootstrap_
+
+
+##Work Experience
+--------------
+__R&D  Engineer__
+Construe IT Solutions Pvt. Ltd. Hyderabad, India
+_(June 2013- October 2013)_
+__Product  Engineer__
+TechAnipr Pvt. Ltd. Hyderabad, India
+_(December 2013- Present)_
+
+
