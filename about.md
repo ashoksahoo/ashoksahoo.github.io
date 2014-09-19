@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About Me
-tagline: Ashok Sahoo
+tagline: Ashok Sahoo, FullStack Developer @ Techanipr
 tags: [about, fullstack developer, nodejs, angularjs, mongodb]
 modified: 9-9-2014
 comments: true
