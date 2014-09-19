@@ -2,9 +2,9 @@
 layout: page
 permalink: /about/
 title: About Me
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: Ashok Sahoo
 tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+modified: 9-9-2014
 comments: true
 image:
   feature: texture-feature-02.jpg
@@ -17,13 +17,10 @@ I am a avid follower of technology and always interested in  working with cuttin
 ##Skills
 ------------
 * __Programming:__
-_JavaScript, PHP, Python, HTML, CSS_
+_JavaScript, Python, Android, HTML, CSS_
 
 * __Technologies:__
-*nodejs, angularjs, mocha, jasmine, mongodb, wordpress_*
-
-* __Design:__
-_Photoshop, jquery, Bootstrap_
+*nodejs, angularjs, mongodb, phonegap, gulp, django, AWS, ansible, vagrant*
 
 
 ##Work Experience
@@ -32,7 +29,7 @@ _Photoshop, jquery, Bootstrap_
 Construe IT Solutions Pvt. Ltd. Hyderabad, India
 _(June 2013- October 2013)_
 
-* __Product  Engineer:__
+* __Fullstack  Engineer:__
 TechAnipr Pvt. Ltd. Hyderabad, India
 _(December 2013- Present)_
 
