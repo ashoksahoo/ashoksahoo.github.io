@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Me
 tagline: Ashok Sahoo
-tags: [about, Jekyll, theme, responsive]
+tags: [about, fullstack developer, nodejs, angularjs, mongodb]
 modified: 9-9-2014
 comments: true
 image:
