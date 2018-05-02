@@ -25,12 +25,25 @@ _JavaScript, Python, Android, HTML, CSS_
 
 ##Work Experience
 --------------
-* __R&D  Engineer:__
-Construe IT Solutions Pvt. Ltd. Hyderabad, India
-_(June 2013- October 2013)_
+
+* __Fullstack  Engineer:__
+Payjo Inc. Bangalore, India
+_(June 2017- Present)_
+
+* __Fullstack  Engineer:__
+VYMO Pvt. Ltd. Bangalore, India
+_(August 2015- June 2017)_
+
+* __Fullstack  Engineer:__
+ WowLabz Pvt. Ltd. Bangalore, India
+_(April 2015- August 2015)_
 
 * __Fullstack  Engineer:__
 TechAnipr Pvt. Ltd. Hyderabad, India
-_(December 2013- Present)_
+_(December 2013- March 2015)_
+
+* __R&D  Engineer:__
+Construe IT Solutions Pvt. Ltd. Hyderabad, India
+_(June 2013- October 2013)_
 
 
