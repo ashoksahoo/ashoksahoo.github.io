@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title:            Ashok Sahoo
 description:      A developer's Blog
 # Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -40,17 +41,13 @@ links:
   - title: Posts
     url: /posts/
   - title: Photos by Ashok Sahoo
-    url: http://futikismat.com
+    url: https://photos.ashok.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
 future:      true
 pygments:    true
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
 
 # Theme Settings
 #
@@ -63,12 +60,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
